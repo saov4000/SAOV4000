@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🎓 Senior Software Engineer & Educator 🚀
 
-<!--
-**saov4000/SAOV4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🏫 About Me
+With over 11 years of experience in Higher Education and Technical Teaching, I specialize in bridging the gap between theoretical Computer Science and practical software development. I am a passionate builder who believes in continuous learning and architectural excellence.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Java, Kotlin, Python, JavaScript
+- **Frameworks:** Spring Boot, Android SDK, Node.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, Docker, Maven, Gradle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Highlights
+- 11+ years of experience teaching programming and software engineering.
+- Developed 140+ projects ranging from academic research to practical applications.
+- Specialist in [Insert your specialization here, e.g., Distributed Systems / Mobile Architecture].
+
+---
+📫 Let's connect for remote opportunities in Senior Engineering or Technical Leadership.
