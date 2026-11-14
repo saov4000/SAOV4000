@@ -5,7 +5,7 @@ With over 11 years of experience in Higher Education and Technical Teaching, I s
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, Kotlin, Python, JavaScript
-- **Frameworks:** Spring Boot, Android SDK, Node.js
+- **Frameworks:** Spring Boot, Android SDK, Node.js, React, NextJs, React Native
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, Docker, Maven, Gradle
 
