@@ -36,4 +36,4 @@ Below are the highlight projects of my portfolio, demonstrating my ability to so
 *   **Expertise in Computer Science** with 11+ years of experience in higher education, mentoring the next generation of developers.
 
 ## 📬 Connect with me
-[LinkedIn](SEU_LINK) | [Email](SEU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/sidinei-vieira-841805381/) | [Email](saov4000@gmail.com)
