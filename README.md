@@ -1,18 +1,39 @@
-# 🎓 Senior Software Engineer & Educator 🚀
+# Hi there! I'm [Seu Nome] 👋
 
-### 👨‍🏫 About Me
-With over 11 years of experience in Higher Education and Technical Teaching, I specialize in bridging the gap between theoretical Computer Science and practical software development. I am a passionate builder who believes in continuous learning and architectural excellence.
+### Senior Full Stack Developer | Java Specialist | Mobile Architect
 
-### 🛠️ Tech Stack
-- **Languages:** Java, Kotlin, Python, JavaScript
-- **Frameworks:** Spring Boot, Android SDK, Node.js, React, NextJs, React Native
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, Docker, Maven, Gradle
-
-### 📈 Highlights
-- 11+ years of experience teaching programming and software engineering.
-- Developed 140+ projects ranging from academic research to practical applications.
-- Specialist in [Insert your specialization here, e.g., Distributed Systems / Mobile Architecture].
+A passionate developer with over a decade of experience in software engineering and education. I specialize in building scalable backends with Spring Boot and high-performance mobile applications.
 
 ---
-📫 Let's connect for remote opportunities in Senior Engineering or Technical Leadership.
+
+## 🛠 Tech Stack
+
+- **Backend:** Java, Spring Boot, Hibernate, REST APIs, PostgreSQL.
+- **Frontend/Mobile:** React Native, Android Studio, JavaScript, TypeScript.
+- **Tools & Architecture:** Git, Maven, Layered Architecture, Design Patterns.
+
+---
+
+## 💎 Featured Projects
+
+Below are the highlight projects of my portfolio, demonstrating my ability to solve complex problems and deliver production-ready code.
+
+### 🚀 Backend & Architecture
+*   **[Playlist API Service](LINK_DO_REPO)** - A robust RESTful API built with Spring Boot, focusing on clean architecture and efficient data management.
+*   **[MVC Implementation](LINK_DO_REPO)** - A deep dive into Model-View-Controller patterns for scalable web applications.
+
+### 📱 Mobile Ecosystem
+*   **[Full-Stack Mobile Integration](LINK_DO_REPO)** - A complete end-to-end solution integrating a Spring Boot backend with an Android frontend.
+*   **[Data Management Solution](LINK_DO_REPO)** - High-performance CRUD application built with React Native, focusing on state management and UX.
+*   **[React Native CRUD Pro](LINK_DO_REPO)** - Advanced implementation of data persistence and mobile interface optimization.
+
+### 🌐 Web Portals
+*   **[GTI Web Portal](LINK_DO_REPO)** - A professional web interface focused on corporate management and accessibility.
+
+---
+
+## 🎓 Academic Background
+*   **Expertise in Computer Science** with 11+ years of experience in higher education, mentoring the next generation of developers.
+
+## 📬 Connect with me
+[LinkedIn](SEU_LINK) | [Email](SEU_EMAIL)
